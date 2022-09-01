@@ -1,11 +1,11 @@
 # Analyse_Predictive_Projet_M2_EMLV
 Note obtenue : 9/10
 
-### Présentation du projet
+### PRESENTATION
 
-A partir d'une problématique de notre choix, nous devions récupérer des données (sur Kaggle par exemple) afin de réaliser une analyse prédictive à l'aide des modèles vus en cours. 
+A partir d'une problématique de notre choix, nous devions récupérer des données (sur Kaggle ou venant d'une entreprise par exemple) afin de réaliser une analyse prédictive à l'aide des modèles vus en cours et du template donné. Nous devions ensuite formuler la problématique, réaliser les étapes du template, et fournir une analyse pertinente et adaptée à la situation.
 
-Pour notre projet, nous avons choisi d'analyser les données de l'entreprise ThéraSomnia, entreprise dans laquelle j'ai effectué mon alternance, en mettant en scène une demande de la direction pour trouver des insights.
+Pour notre projet, nous avons choisi d'analyser les données de l'entreprise ThéraSomnia, entreprise dans laquelle j'ai effectué mon alternance, en mettant en scène une demande de la direction dans le but de trouver des insights sur les prospects.
 
 ### INTRODUCTION
 
