@@ -29,4 +29,4 @@ Nous cherchons, à travers ce notebook, à trouver quel est le modèle le plus e
 * les acheteurs potentiels du programme autour de l'insomnie
 * les questions les plus déterminantes dans la décision d'achat
 
-L'objectif de ce notebook, d'un point de vue business, est d'améliorer la précision du ciblage des campagnes et l'efficacité des indicateurs de performances. Cela permettra également de mieux les utilisateurs.
+L'objectif de ce notebook, d'un point de vue business, est d'améliorer la précision du ciblage des campagnes et l'efficacité des indicateurs de performances. Cela permettra également de mieux connaitre les utilisateurs.
