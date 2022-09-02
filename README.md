@@ -30,3 +30,9 @@ Nous cherchons, à travers ce notebook, à trouver quel est le modèle le plus e
 * les questions les plus déterminantes dans la décision d'achat
 
 L'objectif de ce notebook, d'un point de vue business, est d'améliorer la précision du ciblage des campagnes et l'efficacité des indicateurs de performances. Cela permettra également de mieux connaitre les utilisateurs.
+
+### TECHNOLOGIES :
+
+Analyse univariée, multivariée, Implémentation des modèles (Arbre de décision, Random forest, Régression logistique) 
+
+Librairies : Numpy, Pandas, Seaborn, Matplotlib, Sklearn
